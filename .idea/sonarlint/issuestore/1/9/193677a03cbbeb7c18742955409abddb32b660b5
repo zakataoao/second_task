@@ -1,0 +1,15 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(Œçïùÿÿÿÿ8ù´ó¿À2J$bf9ce2dc-1664-4d89-942c-2557686cc823
+r	java:S106!"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ù´ó¿À2J$7da0a45d-67d3-473c-a081-62ed91c745bc
+i	java:S1313""Add a default case to this switch.(Æóõµıÿÿÿÿ8ú´ó¿À2J$82017083-0b01-4ea9-ab3d-c88cded69646
+m	java:S106?"+Replace this use of System.out by a logger.(Û³¯Ï8ü´ó¿À2J$d2d44927-13c1-43de-88ee-f4df14fe1333
+r	java:S106B"+Replace this use of System.out by a logger.(Ãî­«ıÿÿÿÿ8ü´ó¿À2J$5ff53341-1fe4-4e88-a9d1-0a0fb621be7a
+m	java:S106D"+Replace this use of System.out by a logger.(ˆÖ¨¯8ü´ó¿À2J$061bd1b6-303f-43d1-b3c4-fb53758a3dd1
+š
+java:S3776M"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Üû–øÿÿÿÿ8ı´ó¿À2J$edfc3a3e-e7ce-478f-8ae0-56177f93f35e
+l	java:S106l"+Replace this use of System.out by a logger.(ŠÊ÷|8ÿ´ó¿À2J$7a10c9a4-7e76-42da-a144-465b26cc0fa1
+r	java:S106q"+Replace this use of System.out by a logger.(ıÒÚŠÿÿÿÿÿ8ÿ´ó¿À2J$0cd0e5ca-28e8-472d-92f4-cecba4d94f89
+r	java:S106w"+Replace this use of System.out by a logger.(Èò±„úÿÿÿÿ8ÿ´ó¿À2J$46a4ab43-5ebf-452b-bc16-304eb303a651
+m	java:S106{"+Replace this use of System.out by a logger.(ÂÎ›8ÿ´ó¿À2J$c1f303e9-7c2f-4b3d-8b2b-4e92cbf9830a
+j	java:S131š""Add a default case to this switch.(Æóõµıÿÿÿÿ8µó¿À2J$f9729b44-5b02-406f-818e-cb545f1b371b
+s	java:S106¥"+Replace this use of System.out by a logger.(Û¦ã“ûÿÿÿÿ8µó¿À2J$cfa6d2b1-a633-4f45-a6a1-012bc0217b40
